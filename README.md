@@ -12,8 +12,8 @@ nyax is extended interpreter for [Nya~](https://github.com/sech1p/nya).
 ### Building
 
 ```shell
-$ git clone https://github.com/sech1p/nya.git
-$ cd nya
+$ git clone https://github.com/queereen/nyax.git
+$ cd nyax
 $ make
 $ ./nyax
 ```
